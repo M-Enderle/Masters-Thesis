@@ -1,17 +1,13 @@
 {
-  "name": "Python 3.6 with NumPy",
+  "name": "Python 3.6 with NumPy (Fixed)",
   // Use a specific official Python 3.6 image as the base
   "image": "mcr.microsoft.com/devcontainers/python:0-3.6",
   
-  // Features to install (optional, but good practice for common tools)
-  "features": {
-    "ghcr.io/devcontainers/features/common-utils:2": {
-      "installZsh": "true",
-      "configureZshAsDefaultShell": "true"
-    }
-  },
-
+  // NOTE: The 'features' section that was causing the GPG error has been removed.
+  // The base Python image already includes a lot of useful tools.
+  
   // Commands to run after the container is created
+  // This will install NumPy inside the Python 3.6 environment.
   "postCreateCommand": "pip install numpy",
 
   // Settings for VS Code inside the Codespace
