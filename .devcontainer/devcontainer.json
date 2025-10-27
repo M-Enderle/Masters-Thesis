@@ -1,0 +1,30 @@
+{
+  "name": "Python 3.6 with NumPy",
+  // Use a specific official Python 3.6 image as the base
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.6",
+  
+  // Features to install (optional, but good practice for common tools)
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installZsh": "true",
+      "configureZshAsDefaultShell": "true"
+    }
+  },
+
+  // Commands to run after the container is created
+  "postCreateCommand": "pip install numpy",
+
+  // Settings for VS Code inside the Codespace
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python"
+  },
+
+  // Recommended extensions for Python development
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ],
+
+  // Forward the default Jupyter/web app port (optional)
+  "forwardPorts": [8888]
+}
