@@ -1,0 +1,740 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "ambiscaper_sound_event",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 10.0,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/background_10s.wav",
+            "event_id": "bg0",
+            "source_time": 0.0,
+            "event_time": 0,
+            "event_duration": 10.0,
+            "event_azimuth": 0,
+            "event_elevation": 0,
+            "event_spread": 0,
+            "snr": 0,
+            "role": "background",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1.4477038705918763,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg4",
+            "source_time": 0.0,
+            "event_time": 1.4477038705918763,
+            "event_duration": 0.5,
+            "event_azimuth": 0.2547332097426635,
+            "event_elevation": -0.8382309846736347,
+            "event_spread": 0.0,
+            "snr": 3.6467052771253727,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 3.1050296349986697,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg7",
+            "source_time": 0.0,
+            "event_time": 3.1050296349986697,
+            "event_duration": 0.5,
+            "event_azimuth": 2.2961335275692427,
+            "event_elevation": 0.28726949215568887,
+            "event_spread": 0.0,
+            "snr": 0.27962604417947423,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 4.093675283742934,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg9",
+            "source_time": 0.0,
+            "event_time": 4.093675283742934,
+            "event_duration": 0.5,
+            "event_azimuth": 1.876271576592786,
+            "event_elevation": 0.7819946682404595,
+            "event_spread": 0.0,
+            "snr": 4.8528198435720284,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 4.367262476777629,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg2",
+            "source_time": 0.0,
+            "event_time": 4.367262476777629,
+            "event_duration": 0.5,
+            "event_azimuth": 1.99225706784984,
+            "event_elevation": 0.1336943342458654,
+            "event_spread": 0.0,
+            "snr": 3.607340256039581,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 5.4361802069847975,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg0",
+            "source_time": 0.0,
+            "event_time": 5.4361802069847975,
+            "event_duration": 0.5,
+            "event_azimuth": 2.3696125714657423,
+            "event_elevation": -0.5562655381197341,
+            "event_spread": 0.0,
+            "snr": 4.119683328997939,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.595863654951597,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg5",
+            "source_time": 0.0,
+            "event_time": 8.595863654951597,
+            "event_duration": 0.5,
+            "event_azimuth": 0.05456478417859242,
+            "event_elevation": -0.12815487786044288,
+            "event_spread": 0.0,
+            "snr": 4.875383153044666,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.673758304737538,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg3",
+            "source_time": 0.0,
+            "event_time": 8.673758304737538,
+            "event_duration": 0.5,
+            "event_azimuth": 2.566413292311624,
+            "event_elevation": 0.1599572212700202,
+            "event_spread": 0.0,
+            "snr": 2.4629118022599448,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.783036636139741,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg8",
+            "source_time": 0.0,
+            "event_time": 8.783036636139741,
+            "event_duration": 0.5,
+            "event_azimuth": 4.171179740956214,
+            "event_elevation": 0.11205971465607334,
+            "event_spread": 0.0,
+            "snr": 5.923650568961234,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 9.136999866135831,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg6",
+            "source_time": 0.0,
+            "event_time": 9.136999866135831,
+            "event_duration": 0.5,
+            "event_azimuth": 1.0128364372738725,
+            "event_elevation": -1.3613599242655285,
+            "event_spread": 0.0,
+            "snr": 0.8958336935866913,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 9.236204316811131,
+          "duration": 0.5,
+          "value": {
+            "source_file": "/workspaces/Masters-Thesis/generated_training_data/assets/chirp_3000Hz_500ms.wav",
+            "event_id": "fg1",
+            "source_time": 0.0,
+            "event_time": 9.236204316811131,
+            "event_duration": 0.5,
+            "event_azimuth": 6.07477359684358,
+            "event_elevation": 0.5381498651196353,
+            "event_spread": 0.0,
+            "snr": 4.980609394925773,
+            "role": "foreground",
+            "pitch_shift": 1.0,
+            "time_stretch": 1.0
+          },
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {
+        "ambiscaper": {
+          "duration": 10.0,
+          "fg_path": "/workspaces/Masters-Thesis/generated_training_data/assets",
+          "bg_path": "/workspaces/Masters-Thesis/generated_training_data/assets",
+          "fg_spec": [
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                5.4361802069847975
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                2.3696125714657423
+              ],
+              [
+                "const",
+                -0.5562655381197341
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                4.119683328997939
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                9.236204316811131
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                6.07477359684358
+              ],
+              [
+                "const",
+                0.5381498651196353
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                4.980609394925773
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                4.367262476777629
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                1.99225706784984
+              ],
+              [
+                "const",
+                0.1336943342458654
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                3.607340256039581
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                8.673758304737538
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                2.566413292311624
+              ],
+              [
+                "const",
+                0.1599572212700202
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                2.4629118022599448
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                1.4477038705918763
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                0.2547332097426635
+              ],
+              [
+                "const",
+                -0.8382309846736347
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                3.6467052771253727
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                8.595863654951597
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                0.05456478417859242
+              ],
+              [
+                "const",
+                -0.12815487786044288
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                4.875383153044666
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                9.136999866135831
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                1.0128364372738725
+              ],
+              [
+                "const",
+                -1.3613599242655285
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                0.8958336935866913
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                3.1050296349986697
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                2.2961335275692427
+              ],
+              [
+                "const",
+                0.28726949215568887
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                0.27962604417947423
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                8.783036636139741
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                4.171179740956214
+              ],
+              [
+                "const",
+                0.11205971465607334
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                5.923650568961234
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ],
+            [
+              [
+                "const",
+                "chirp_3000Hz_500ms.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                4.093675283742934
+              ],
+              [
+                "const",
+                0.5
+              ],
+              [
+                "const",
+                1.876271576592786
+              ],
+              [
+                "const",
+                0.7819946682404595
+              ],
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                4.8528198435720284
+              ],
+              "foreground",
+              [
+                "const",
+                1.0
+              ],
+              [
+                "const",
+                1.0
+              ]
+            ]
+          ],
+          "bg_spec": [
+            [
+              [
+                "const",
+                "background_10s.wav"
+              ],
+              null,
+              [
+                "const",
+                0.0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                10.0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              "background",
+              null,
+              null
+            ]
+          ],
+          "ref_db": -40.0,
+          "ambisonics_order": 1,
+          "ambisonics_spread_slope": 1.0,
+          "fade_in_len": 0.01,
+          "fade_out_len": 0.01,
+          "n_events": 10,
+          "polyphony_max": 3,
+          "polyphony_gini": 0.2652934694130613,
+          "allow_repeated_source": true
+        }
+      },
+      "time": 0,
+      "duration": 10.0
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 10.0,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
